@@ -1,4 +1,4 @@
-package com.example.service.orderstatusservice;
+package com.example.service.orderservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
